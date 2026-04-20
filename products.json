@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Weekly Membership",
+    "price": "160 TK",
+    "image": "https://example.com/image1.jpg"
+  },
+  {
+    "title": "Monthly Membership",
+    "price": "800 TK",
+    "image": "https://example.com/image2.jpg"
+  }
+]
